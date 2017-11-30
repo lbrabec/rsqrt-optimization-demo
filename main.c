@@ -3,10 +3,8 @@
 #include <stdlib.h>
 #include <math.h>
 #include <malloc.h>
-#include <xmmintrin.h>
-#include "pmmintrin.h"
 #include <time.h>
-#include "immintrin.h"
+
 
 #define SIZE 1024*1024*8
 
